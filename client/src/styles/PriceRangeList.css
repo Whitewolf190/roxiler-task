@@ -1,0 +1,22 @@
+
+.range{
+    display: flex;
+    justify-content:space-around;
+}.price-range{
+    width: 600px;
+    margin-top: 50pc;
+    margin-bottom: 10pc;
+    padding: 30px;
+    /* border:1px solid grey;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
+    border-radius: 10px; */
+}
+.pie-chart{
+    margin-top: 53pc;
+    width: 500px;
+    height: 500px;
+    padding: 30px;
+    /* border:1px solid grey; */
+    /* box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
+    border-radius: 10px; */
+}
